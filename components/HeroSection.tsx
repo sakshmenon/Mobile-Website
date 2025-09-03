@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { ImageWithFallback } from './figma/ImageWithFallback'
+import { ImageWithFallback } from './ImageWithFallback'
 import { motion, useScroll, useTransform } from 'framer-motion'
 
 export function HeroSection() {
