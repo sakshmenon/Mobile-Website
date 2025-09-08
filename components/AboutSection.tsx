@@ -157,26 +157,10 @@ export function AboutSection() {
               <CardContent className="p-0">
                 <div className="space-y-4 text-muted-foreground">
                   <p>
-                    I'm a senior at the University of Cincinnati studying Computer Science.
-                    I am driven by responsible innovation in tech and take joy in creating applications 
-                    that challenge me.
-                  </p>
-                  <p>
-                    My journey in tech started when I needed to submit a high school project. 
-                    The experience slowly went from a dreadful one to a fascinating one. I was 
-                    impressed by how data could tell stories and the ability to create anything. This led me to 
-                    where I am now.
-                  </p>
-                  <p>
-                    Over the past four years, I've worked on various projects and participated in various internships
-                    that combine technical data skills with design thinking. From building predictive models for medical
-                    conditions to query optimizers for more effective search sessions, I just wanted to keep building.
-                  </p>
-                  <p>
-                    As I approach graduation, I'm excited to bring my unique blend of data modeling and product 
-                    development to product teams that are building the tools that can empower the next 
-                    generation of developers and applications. I believe the future belongs to products 
-                    that are both intelligent and human-centered.
+                    I am an ex-SWE/ML intern with Cincinnati Children's Hospital and an ex-SWE research intern with the University of Cincinnati.
+                    I'm currently a senior studying Computer Science at the University of Cincinnati set to graduate in the spring of 2026. 
+                    I have a specialized skillset in the field of data modeling, product development, and cooking.
+                    I take joy in creating applications that challenge me with intense teams. I am currently seeking new grad positions after the spring.
                   </p>
                 </div>
               </CardContent>
