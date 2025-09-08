@@ -18,14 +18,6 @@ export function AboutSection() {
     'Cloud Computing', 'Transformers', 'Computer Vision', 'Full-Stack', 'Neural Networks', 'Data Modeling', 
   ]
 
-  //   
-  //   'Machine Learning',
-  //   'MySQL', 'NoSQL', 'Hugging Face',
-  //   'Docker', 'Git', 'NPM'
-  // ]
-
-
-
   const values = [
     {
       icon: Database,
@@ -156,7 +148,7 @@ export function AboutSection() {
             <Card className="p-8">
               <CardContent className="p-0">
                 <div className="space-y-4 text-muted-foreground">
-                  <p>
+                  <p className=" text-center">
                     I am an ex-SWE/ML intern with Cincinnati Children's Hospital and an ex-SWE research intern with the University of Cincinnati.
                     I'm currently a senior studying Computer Science at the University of Cincinnati set to graduate in the spring of 2026. 
                     I have a specialized skillset in the field of data modeling, product development, and cooking.
