@@ -180,7 +180,7 @@ export function Navigation() {
               {navItems.map((item, index) => (
                 <motion.button
                   key={item.href}
-                  onClick={() => scrollToSection(item.href)}
+                  onClick={() => document.querySelector(item.href).scrollIntoView({ behavior : "smooth" })}
                   className="text-left px-4 py-3 text-muted-foreground hover:text-foreground hover:bg-accent/50 rounded-md transition-colors"
                   variants={mobileItemVariants}
                   whileHover={{ x: 10 }}
