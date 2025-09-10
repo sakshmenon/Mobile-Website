@@ -12,7 +12,7 @@ export function ProjectsSection() {
     {
       title: 'Gradly - University Course Planner',
       description: 'Building a course planner for University of Cincinnati students. Aiming to replace the current system and on board all current university system users.',
-      image: 'https://github.com/sakshmenon/Mobile-Website/blob/main/img/video.png?raw=true',
+      image: 'https://raw.githubusercontent.com/sakshmenon/Mobile-Website/refs/heads/main/img/gradly.png',
       codelink: 'https://github.com/sakshmenon/SeniorDesign',
       tags: ['React', 'Flask', 'Python', 'MongoDB', 'JWT'],
       duration: 'Jan 2025 - Feb 2025'
