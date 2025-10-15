@@ -15,7 +15,7 @@ export function ProjectsSection() {
       image: 'https://raw.githubusercontent.com/sakshmenon/Mobile-Website/refs/heads/main/img/gradly.png',
       codelink: 'https://github.com/sakshmenon/SeniorDesign',
       tags: ['React', 'Flask', 'Python', 'MongoDB', 'JWT'],
-      duration: 'Jan 2025 - Feb 2025'
+      duration: 'Sept 2025 - Present'
     },
     {
       title: 'Yank - Search Query Optimizer',
