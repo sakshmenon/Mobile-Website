@@ -383,10 +383,9 @@ export function AboutSection() {
                 whileHover="hover"
                 whileTap="tap"
               >
-                <a href="/assets/Saksh Menon – Resume 2025.pdf" download>
+                <a href="https://github.com/sakshmenon/Mobile-Website/blob/main/assets/Saksh%20Menon%20%E2%80%93%20Resume%202026.pdf">
                 <Button variant="outline" size="lg" className="group">
-                  <Download className="mr-2 h-4 w-4 group-hover:scale-110 transition-transform"/>
-                  Download Resume
+                  View Resume
                 </Button>
                 </a>
                 {/* <a  download>text</a> */}
